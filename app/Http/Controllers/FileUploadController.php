@@ -8,6 +8,7 @@ class FileUploadController extends Controller
 {
     public function upload(Request $request)
     {
+
         // Validate the incoming request
         $request->validate([
             'file_name' => 'required|string',
@@ -39,63 +40,137 @@ class FileUploadController extends Controller
             return response()->json(['error' => 'Failed to parse XML file'], 400);
         }
 
+        // Initialize the output string with 1C format header
+        $vipiska = chr(239).chr(187).chr(191)."1CClientBankExchange\nВерсияФормата=1.03\nКодировка=DOS\n";
+
         // Get header information
         $header = $xml->HEADER;
-        $output = "ВЫПИСКА ПО СЧЕТУ\n";
-        // Add account information
-        $output .= "Информация о счете:\n";
-        $output .= "Наименование клиента: " . (string)$header->ClientName . "\n";
-        $output .= "Номер счета: " . (string)$header->AcctNo . "\n";
-        $output .= "Период: " . (string)$header->Period . "\n";
-        $output .= "Валюта: " . (string)$header->Ccy . "\n\n";
+        $AccountNameEnglish = (string)$header->ClientName;
+        $FilterDateFrom = str_replace('/', '.', (string)$header->Period);
+        $FilterDateTo = str_replace('/', '.', (string)$header->Period);
+        $AccountNo = (string)$header->AcctNo;
+        $StartingBalance = (string)$header->InAmtBasePer;
+        $ClosingBalance = (string)$header->OutAmtBasePer;
+        $TotalPaidIn = (string)$header->InAmtPer;
+        $TotalPaidOut = (string)$header->OutAmtPer;
 
-        // Add summary information
-        $output .= "Сводная информация:\n";
-        $output .= "Входящий остаток: " . (string)$header->InAmtBasePer . " " . (string)$header->Ccy . "\n";
-        $output .= "Всего поступило: " . (string)$header->InAmtPer . " " . (string)$header->Ccy . "\n";
-        $output .= "Всего списано: " . (string)$header->OutAmtPer . " " . (string)$header->Ccy . "\n";
-        $output .= "Исходящий остаток: " . (string)$header->OutAmtBasePer . " " . (string)$header->Ccy . "\n\n";
+        // Write header section
+        $vipiska .= "Отправитель=$AccountNameEnglish\n";
+        $vipiska .= "Получатель=\n";
+        $vipiska .= "ДатаСоздания=$FilterDateFrom\n";
+        $vipiska .= "ВремяСоздания=00:00:00\n";
+        $vipiska .= "ДатаНачала=$FilterDateFrom\n";
+        $vipiska .= "ДатаКонца=$FilterDateTo\n";
+        $vipiska .= "РасчСчет=$AccountNo\n\n";
 
-        // Process transactions by date
-        $output .= "Операции по счету:\n";
+        // Write account section
+        $vipiska .= "СекцияРасчСчет\n";
+        $vipiska .= "ДатаНачала=$FilterDateFrom\n";
+        $vipiska .= "ДатаКонца=$FilterDateTo\n";
+        $vipiska .= "РасчСчет=$AccountNo\n";
+        $vipiska .= "НачальныйОстаток=$StartingBalance\n";
+        $vipiska .= "ВсегоПоступило=$TotalPaidIn\n";
+        $vipiska .= "ВсегоСписано=$TotalPaidOut\n";
+        $vipiska .= "КонечныйОстаток=$ClosingBalance\n";
+        $vipiska .= "КонецРасчСчет\n";
 
+        // Process transactions
         foreach ($xml->DETAILS as $details) {
-            $date = (string)$details['DATE'];
-            $output .= "Дата: " . $date . "\n";
             foreach ($details->DETAIL as $detail) {
-                $output .= "Детали операции:\n";
-                $output .= "Номер документа: " . (string)$detail->DocNo . "\n";
-                $output .= "Сумма: " . (string)$detail->DocDstAmt . " " . (string)$detail->DocDstCcy . "\n";
-                $output .= "Назначение платежа: " . (string)$detail->DocNomination . "\n";
+                $DocumentNumber = (string)$detail->DocNo;
+                $Date = str_replace('/', '.', (string)$detail->DocValueDate);
+                $PaidIn = (string)$detail->EntryCrAmt;
+                $PaidOut = (string)$detail->EntryAmtBase;
+                $PartnerAccountNumber = (string)$detail->DocBenefAcctNo;
+                $PartnerName = (string)$detail->DocBenefName;
+                $PartnerBankName = (string)$detail->DocBenefBicName;
+                $TransactionType = (string)$detail->DocNomination;
+                $Description = (string)$detail->DocInformation;
 
-                if ((string)$detail->DocBenefAcctNo === (string)$header->AcctNo) {
-                    $output .= "Тип операции: Поступление\n";
-                    $output .= "От кого: " . (string)$detail->DocSenderName . "\n";
-                    $output .= "Счет отправителя: " . (string)$detail->DocSenderAcctNo . "\n";
-                    $output .= "Банк отправителя: " . (string)$detail->DocSenderBicName . "\n";
-                } else {
-                    $output .= "Тип операции: Списание\n";
-                    $output .= "Кому: " . (string)$detail->DocBenefName . "\n";
-                    $output .= "Счет получателя: " . (string)$detail->DocBenefAcctNo . "\n";
-                    $output .= "Банк получателя: " . (string)$detail->DocBenefBicName . "\n";
+                if (empty($DocumentNumber) || empty($Date) || (empty($PaidIn) && empty($PaidOut))) {
+                    continue;
                 }
 
-                $output .= "Остаток: " . (string)$detail->OutBalance . " " . (string)$detail->DocDstCcy . "\n";
-            }
+                $vipiska .= "\nСекцияДокумент=Платежное поручение\n";
+                $vipiska .= "Номер=$DocumentNumber\n";
+                $vipiska .= "Дата=$Date\n";
 
-            // Add daily summary
-            $detHead = $details->DET_HEAD;
-            $output .= "Итого за день:\n";
-            $output .= "Общая сумма: " . (string)$detHead->DayAmt . " " . (string)$header->Ccy . "\n";
-            $output .= "Сумма поступлений: " . (string)$detHead->VsumCr . " " . (string)$header->Ccy . "\n";
-            $output .= "Количество операций: " . (string)$detHead->DayEntryCount . "\n";
+                if (empty($PaidIn)) {
+                    // Outgoing payment
+                    $vipiska .= "Сумма=$PaidOut\n";
+                    $vipiska .= "ПлательщикСчет=\n";
+                    $vipiska .= "ДатаСписано=$Date\n";
+                    $vipiska .= "Плательщик=$AccountNameEnglish\n";
+                    $vipiska .= "ПлательщикИНН=$request[INN]\n";
+                    $vipiska .= "ПлательщикКПП=\n";
+                    $vipiska .= "ПлательщикРасчСчет=$AccountNo\n";
+                    $vipiska .= "ПлательщикБанк1=\n";
+                    $vipiska .= "ПлательщикБИК=\n";
+                    $vipiska .= "ПлательщикКорсчет=\n";
+                    $vipiska .= "ПолучательСчет=$PartnerAccountNumber\n";
+                    $vipiska .= "ДатаПоступило=\n";
+                    $vipiska .= "Получатель=$PartnerName\n";
+                    $vipiska .= "ПолучательИНН=" . str_replace("GE", "", $PartnerAccountNumber) . "\n";
+                    $vipiska .= "ПолучательКПП=\n";
+                    $vipiska .= "ПолучательРасчСчет=$PartnerAccountNumber\n";
+                    $vipiska .= "ПолучательБанк1=$PartnerBankName\n";
+                    $vipiska .= "ПолучательБИК=\n";
+                    $vipiska .= "ПолучательКорсчет=\n";
+                } else {
+                    // Incoming payment
+                    $vipiska .= "Сумма=$PaidIn\n";
+                    $vipiska .= "ПлательщикСчет=$PartnerAccountNumber\n";
+                    $vipiska .= "ДатаСписано=\n";
+                    $vipiska .= "Плательщик=$PartnerName\n";
+                    $vipiska .= "ПлательщикИНН=" . str_replace("GE", "", $PartnerAccountNumber) . "\n";
+                    $vipiska .= "ПлательщикКПП=\n";
+                    $vipiska .= "ПлательщикРасчСчет=$PartnerAccountNumber\n";
+                    $vipiska .= "ПлательщикБанк1=$PartnerBankName\n";
+                    $vipiska .= "ПлательщикБИК=\n";
+                    $vipiska .= "ПлательщикКорсчет=\n";
+                    $vipiska .= "ПолучательСчет=$AccountNo\n";
+                    $vipiska .= "ДатаПоступило=$Date\n";
+                    $vipiska .= "Получатель=$AccountNameEnglish\n";
+                    $vipiska .= "ПолучательИНН=$request[INN]\n";
+                    $vipiska .= "ПолучательКПП=\n";
+                    $vipiska .= "ПолучательРасчСчет=$AccountNo\n";
+                    $vipiska .= "ПолучательБанк1=\n";
+                    $vipiska .= "ПолучательБИК=\n";
+                    $vipiska .= "ПолучательКорсчет=\n";
+                }
+
+                // Common fields for both incoming and outgoing payments
+                $vipiska .= "ВидПлатежа=$TransactionType\n";
+                $vipiska .= "ВидОплаты=01\n";
+                $vipiska .= "СрокАкцепта=\n";
+                $vipiska .= "УсловиеОплаты1=\n";
+                $vipiska .= "СтатусСоставителя=\n";
+                $vipiska .= "ПоказательКБК=\n";
+                $vipiska .= "ОКАТО=0\n";
+                $vipiska .= "ПоказательОснования=0\n";
+                $vipiska .= "ПоказательПериода=0\n";
+                $vipiska .= "ПоказательНомера=0\n";
+                $vipiska .= "ПоказательДаты=0\n";
+                $vipiska .= "Очередность=5\n";
+                $vipiska .= "НазначениеПлатежа=$Description\n";
+                $vipiska .= "ВидАккредитива=\n";
+                $vipiska .= "СрокПлатежа=\n";
+                $vipiska .= "НомерСчетаПоставщика=\n";
+                $vipiska .= "ПлатежПоПредст=\n";
+                $vipiska .= "ДополнУсловия=\n";
+                $vipiska .= "ДатаОтсылкиДок=\n";
+                $vipiska .= "КонецДокумента\n";
+            }
         }
 
-        // Save the converted file
-        $outputFileName = pathinfo($fileName, PATHINFO_FILENAME) . '.txt';
-        file_put_contents("$uploads_dir/$outputFileName", $output);
+        $vipiska .= "\nКонецФайла";
+
+        // Save the output file
+        file_put_contents("$uploads_dir/output.txt", $vipiska);
 
         // Provide the text file for download
-        return response()->download("$uploads_dir/$outputFileName")->deleteFileAfterSend(true);
+        return response()->download("$uploads_dir/output.txt")->deleteFileAfterSend(true);
+
     }
+
 }
