@@ -27,42 +27,51 @@ class UserController extends Controller
             'name' => 'required|string|max:255',
             'email' => 'required|string|email|max:255|unique:users',
             'inn' => 'required|integer',
-            'password' => 'required|string|min:8|confirmed',
+            'password' => 'required|string|min:6|confirmed',
         ]);
 
         $validated['password'] = Hash::make($validated['password']);
         User::create($validated);
 
-        return redirect()->route('users.index')->with('success', 'User created successfully.');
+        return redirect()->route('admin', [app()->getlocale()])->with('success', 'User created successfully.');
     }
 
-    public function edit(User $user)
+    public function edit($locale, $id)
     {
-        return view('users.edit', compact('user')); // Create this view
+
+        $user = User::findOrFail($id); // Retrieve the user or throw a 404 if not found
+        return view('admin.users.edit', compact('user'));
     }
 
-    public function update(Request $request, User $user)
-    {
-        $validated = $request->validate([
-            'name' => 'required|string|max:255',
-            'email' => 'required|string|email|max:255|unique:users,email,' . $user->id,
-            'password' => 'nullable|string|min:8|confirmed',
-        ]);
+    public function update(Request $request, $locale, User $user)
+{
+    $validated = $request->validate([
+        'name' => 'required|string|max:255',
+        'email' => 'required|string|email|max:255|unique:users,email,' . $user->id,
+        'inn' => 'required|integer',
+        'password' => 'nullable|string|min:8|confirmed',
+    ]);
 
-        if ($validated['password']) {
-            $validated['password'] = Hash::make($validated['password']);
-        } else {
-            unset($validated['password']); // Do not update the password if it's not provided
-        }
-
-        $user->update($validated);
-
-        return redirect()->route('users.index', [app()->getlocale()])->with('success', 'User updated successfully.');
+    if (!empty($validated['password'])) {
+        $validated['password'] = Hash::make($validated['password']);
+    } else {
+        unset($validated['password']); // Do not update the password if it's not provided
     }
 
-    public function destroy(User $user)
+    $user->update($validated);
+
+    return redirect()->route('admin', [app()->getlocale()])->with('success', 'User updated successfully.');
+}
+
+    public function destroy(Request $request)
     {
+        $userId = $request->input('id');
+        $user = User::findOrFail($userId);
+
         $user->delete();
-        return redirect()->route('users.index')->with('success', 'User deleted successfully.');
+
+        return response()->json(['message' => 'User deleted successfully.']);
     }
+
+
 }

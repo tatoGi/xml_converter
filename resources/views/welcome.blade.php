@@ -53,6 +53,12 @@
                     </li>
                 @endforeach
             </ul>
+            <div class="container text-center mb-4">
+                <form action="/{{ app()->getlocale() }}/logout" method="POST" style="display: inline;">
+                    @csrf
+                    <button type="submit" class="btn btn-danger">{{ __('messages.logout') }}</button>
+                </form>
+            </div>
 
         </div>
     </div>

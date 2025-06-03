@@ -1,0 +1,3430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<entries>
+  <HEADER>
+    <CanCopyDocument>False</CanCopyDocument>
+    <CanViewDocument>False</CanViewDocument>
+    <CanPrintDocument>False</CanPrintDocument>
+    <IsReval>False</IsReval>
+    <Lang>GE</Lang>
+    <AcctKey>10414015812</AcctKey>
+    <ClientKey>30543874</ClientKey>
+    <ClientName>შპს  მს ჯგუფი</ClientName>
+    <AcctNo>GE30BG0000000664216500GEL (664216500)</AcctNo>
+    <LastTurnDate>31.03.2025</LastTurnDate>
+    <Branch>502</Branch>
+    <ExecCode>NINOC1</ExecCode>
+    <Ccy>GEL</Ccy>
+    <Period>01.04.2025-30.04.2025</Period>
+    <StartDate>01.04.2025</StartDate>
+    <InAmtPer>1617.87</InAmtPer>
+    <InAmtBasePer>1617.87</InAmtBasePer>
+    <InCcyRatePer>1</InCcyRatePer>
+    <EndDate>30.04.25</EndDate>
+    <OutAmtPer>2016.79</OutAmtPer>
+    <OutAmtBasePer>2016.79</OutAmtBasePer>
+    <SumCrPer>3652.92</SumCrPer>
+    <SumDbPer>3254</SumDbPer>
+    <OutCcyRatePer>1</OutCcyRatePer>
+  </HEADER>
+  <DETAILS DATE="01.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 01/04/2025 17:25:09; თანხა:GEL 57; საკომისიო: GEL 0.86; ბარათი: MC, 531125360***8247; კოდი: 855956; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW291L; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 01/04/2025 17:25:09; თანხა:GEL 57; საკომისიო: GEL 0.86; ბარათი: MC, 531125360***8247; კოდი: 855956; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW291L; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>56.14</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>56.14</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26621922209</DocKey>
+      <DocRecDate>01.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>6949566860</DocNo>
+      <DocValueDate>01.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>93641996655</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>01.04.2025</EntryPDate>
+      <EntryDocNo>6949566860</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>56.14</EntryCrAmt>
+      <OutBalance>1,738.77</OutBalance>
+      <EntryCrAmtBase>56.14</EntryCrAmtBase>
+      <EntryAmtBase>56.14</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 01/04/2025 17:25:09; თანხა:GEL 57; საკომისიო: GEL 0.86; ბარათი: MC, 531125360***8247; კოდი: 855956; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW291L; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 01/04/2025 19:35:03; თანხა:GEL 28.5; საკომისიო: GEL 0.43; ბარათი: AMEXD, 37466902***1112; კოდი: 313358; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW291L; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 01/04/2025 19:35:03; თანხა:GEL 28.5; საკომისიო: GEL 0.43; ბარათი: AMEXD, 37466902***1112; კოდი: 313358; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW291L; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>28.07</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>28.07</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26624381753</DocKey>
+      <DocRecDate>01.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>6950782036</DocNo>
+      <DocValueDate>01.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>93651828647</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>01.04.2025</EntryPDate>
+      <EntryDocNo>6950782036</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>28.07</EntryCrAmt>
+      <OutBalance>1,682.63</OutBalance>
+      <EntryCrAmtBase>28.07</EntryCrAmtBase>
+      <EntryAmtBase>28.07</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 01/04/2025 19:35:03; თანხა:GEL 28.5; საკომისიო: GEL 0.43; ბარათი: AMEXD, 37466902***1112; კოდი: 313358; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW291L; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 01/04/2025 22:25:54; თანხა:GEL 10; საკომისიო: GEL 0.15; ბარათი: MC, 548888039***1924; კოდი: 193884; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW291L; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 01/04/2025 22:25:54; თანხა:GEL 10; საკომისიო: GEL 0.15; ბარათი: MC, 548888039***1924; კოდი: 193884; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW291L; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>9.85</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>9.85</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26626527924</DocKey>
+      <DocRecDate>01.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>6951990032</DocNo>
+      <DocValueDate>01.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>93657282919</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>01.04.2025</EntryPDate>
+      <EntryDocNo>6951990032</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>9.85</EntryCrAmt>
+      <OutBalance>1,627.72</OutBalance>
+      <EntryCrAmtBase>9.85</EntryCrAmtBase>
+      <EntryAmtBase>9.85</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 01/04/2025 22:25:54; თანხა:GEL 10; საკომისიო: GEL 0.15; ბარათი: MC, 548888039***1924; კოდი: 193884; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW291L; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 01/04/2025 22:41:53; თანხა:GEL 27.5; საკომისიო: GEL 0.66; ბარათი: MC, 530905004***5701; კოდი: 074967; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW291L; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 01/04/2025 22:41:53; თანხა:GEL 27.5; საკომისიო: GEL 0.66; ბარათი: MC, 530905004***5701; კოდი: 074967; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW291L; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>26.84</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>26.84</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26626662875</DocKey>
+      <DocRecDate>01.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>6952051123</DocNo>
+      <DocValueDate>01.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>93657617216</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>01.04.2025</EntryPDate>
+      <EntryDocNo>6952051123</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>26.84</EntryCrAmt>
+      <OutBalance>1,654.56</OutBalance>
+      <EntryCrAmtBase>26.84</EntryCrAmtBase>
+      <EntryAmtBase>26.84</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 01/04/2025 22:41:53; თანხა:GEL 27.5; საკომისიო: GEL 0.66; ბარათი: MC, 530905004***5701; კოდი: 074967; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW291L; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>1738.77</DayAmt>
+      <DayAmtBase>1738.77</DayAmtBase>
+      <VsumCr>120.9</VsumCr>
+      <DayEntryCount>4</DayEntryCount>
+      <DayDate>01.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="02.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 02/04/2025 21:17:58; თანხა:GEL 32; საკომისიო: GEL 0.48; ბარათი: MC, 548888027***9772; კოდი: 951988; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW292M; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 02/04/2025 21:17:58; თანხა:GEL 32; საკომისიო: GEL 0.48; ბარათი: MC, 548888027***9772; კოდი: 951988; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW292M; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>31.52</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>31.52</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26642844283</DocKey>
+      <DocRecDate>02.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>6959511199</DocNo>
+      <DocValueDate>02.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>93710414915</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>02.04.2025</EntryPDate>
+      <EntryDocNo>6959511199</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>31.52</EntryCrAmt>
+      <OutBalance>1,770.29</OutBalance>
+      <EntryCrAmtBase>31.52</EntryCrAmtBase>
+      <EntryAmtBase>31.52</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 02/04/2025 21:17:58; თანხა:GEL 32; საკომისიო: GEL 0.48; ბარათი: MC, 548888027***9772; კოდი: 951988; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW292M; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>1770.29</DayAmt>
+      <DayAmtBase>1770.29</DayAmtBase>
+      <VsumCr>31.52</VsumCr>
+      <DayEntryCount>1</DayEntryCount>
+      <DayDate>02.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="04.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 04/04/2025 22:52:19; თანხა:GEL 51; საკომისიო: GEL 0.77; ბარათი: AMEXD, 37466908***3953; კოდი: 833263; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW294O; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 04/04/2025 22:52:19; თანხა:GEL 51; საკომისიო: GEL 0.77; ბარათი: AMEXD, 37466908***3953; კოდი: 833263; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW294O; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>50.23</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>50.23</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26676262902</DocKey>
+      <DocRecDate>04.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>6975375677</DocNo>
+      <DocValueDate>04.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>93819208192</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>04.04.2025</EntryPDate>
+      <EntryDocNo>6975375677</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>50.23</EntryCrAmt>
+      <OutBalance>1,838.25</OutBalance>
+      <EntryCrAmtBase>50.23</EntryCrAmtBase>
+      <EntryAmtBase>50.23</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 04/04/2025 22:52:19; თანხა:GEL 51; საკომისიო: GEL 0.77; ბარათი: AMEXD, 37466908***3953; კოდი: 833263; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW294O; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 04/04/2025 22:59:52; თანხა:GEL 213; საკომისიო: GEL 3.2; ბარათი: MC, 548888035***3355; კოდი: 382841; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW294O; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 04/04/2025 22:59:52; თანხა:GEL 213; საკომისიო: GEL 3.2; ბარათი: MC, 548888035***3355; კოდი: 382841; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW294O; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>209.8</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>209.8</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26676313672</DocKey>
+      <DocRecDate>04.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>6975400096</DocNo>
+      <DocValueDate>04.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>93819334626</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>04.04.2025</EntryPDate>
+      <EntryDocNo>6975400096</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>209.8</EntryCrAmt>
+      <OutBalance>2,048.05</OutBalance>
+      <EntryCrAmtBase>209.8</EntryCrAmtBase>
+      <EntryAmtBase>209.8</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 04/04/2025 22:59:52; თანხა:GEL 213; საკომისიო: GEL 3.2; ბარათი: MC, 548888035***3355; კოდი: 382841; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW294O; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 04/04/2025 23:53:47; თანხა:GEL 18; საკომისიო: GEL 0.27; ბარათი: MC, 516746040***4808; კოდი: 729449; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW294O; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 04/04/2025 23:53:47; თანხა:GEL 18; საკომისიო: GEL 0.27; ბარათი: MC, 516746040***4808; კოდი: 729449; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW294O; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>17.73</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>17.73</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26676633343</DocKey>
+      <DocRecDate>04.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>6975530263</DocNo>
+      <DocValueDate>04.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>93820099006</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>04.04.2025</EntryPDate>
+      <EntryDocNo>6975530263</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>17.73</EntryCrAmt>
+      <OutBalance>1,788.02</OutBalance>
+      <EntryCrAmtBase>17.73</EntryCrAmtBase>
+      <EntryAmtBase>17.73</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 04/04/2025 23:53:47; თანხა:GEL 18; საკომისიო: GEL 0.27; ბარათი: MC, 516746040***4808; კოდი: 729449; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW294O; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>2048.05</DayAmt>
+      <DayAmtBase>2048.05</DayAmtBase>
+      <VsumCr>277.76</VsumCr>
+      <DayEntryCount>3</DayEntryCount>
+      <DayDate>04.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="05.04.2025">
+    <DETAIL>
+      <CanCopyDocument>True</CanCopyDocument>
+      <CanViewDocument>True</CanViewDocument>
+      <CanPrintDocument>True</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გასასახადების ერთიანი კოდი</DocNomination>
+      <DocInformation>გასასახადების ერთიანი კოდი</DocInformation>
+      <DocSrcAmt>2000</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>2000</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26676848186</DocKey>
+      <DocRecDate>05.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>CENT14</DocDepartment>
+      <DocProdGroup>PMD</DocProdGroup>
+      <DocNo>0236</DocNo>
+      <DocValueDate>05.04.2025</DocValueDate>
+      <DocSenderName>შპს  მს ჯგუფი</DocSenderName>
+      <DocSenderInn>405167947</DocSenderInn>
+      <DocSenderAcctNo>GE30BG0000000664216500GEL</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocActualDate>05.04.2025</DocActualDate>
+      <DocCorAcct>200122900</DocCorAcct>
+      <DocCorBic>TRESGE22</DocCorBic>
+      <DocCorBankName>სახელმწიფო ხაზინა</DocCorBankName>
+      <EntriesId>93820525184</EntriesId>
+      <DocComment>ერთიანი სახაზინო კოდი - საბიუჯეტო გადასახადი 101001000: 200122900 სახელმწიფო ხაზინა TRESGE22</DocComment>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>05.04.2025</EntryPDate>
+      <EntryDocNo>0236</EntryDocNo>
+      <EntryLAcct>48319810200100000000</EntryLAcct>
+      <EntryDbAmt>2000</EntryDbAmt>
+      <EntryDbAmtBase>2000</EntryDbAmtBase>
+      <OutBalance>43.05</OutBalance>
+      <EntryAmtBase>2000</EntryAmtBase>
+      <EntryComment>გასასახადების ერთიანი კოდი</EntryComment>
+      <EntryDepartment>CENT00</EntryDepartment>
+      <EntryAcctPoint>BANK</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>ერთიანი სახაზინო კოდი - საბიუჯეტო გადასახადი</DocBenefName>
+      <DocBenefAcctNo>200122900</DocBenefAcctNo>
+      <DocBenefBic>TRESGE22</DocBenefBic>
+      <DocBenefBicName>სახელმწიფო ხაზინა</DocBenefBicName>
+      <DocTreasureCode>101001000</DocTreasureCode>
+      <DocPayerName>შპს  მს ჯგუფი</DocPayerName>
+      <DocPayerInn>405167947</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>True</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გასასახადების ერთიანი კოდი</DocNomination>
+      <DocInformation>გასასახადების ერთიანი კოდი</DocInformation>
+      <DocSrcAmt>5</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>5</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26676848186</DocKey>
+      <DocRecDate>05.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>CENT14</DocDepartment>
+      <DocProdGroup>COM</DocProdGroup>
+      <DocNo>0236</DocNo>
+      <DocValueDate>05.04.2025</DocValueDate>
+      <DocSenderName>შპს  მს ჯგუფი</DocSenderName>
+      <DocSenderInn>405167947</DocSenderInn>
+      <DocSenderAcctNo>GE30BG0000000664216500GEL</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocActualDate>05.04.2025</DocActualDate>
+      <DocCorAcct>200122900</DocCorAcct>
+      <DocCorBic>TRESGE22</DocCorBic>
+      <DocCorBankName>სახელმწიფო ხაზინა</DocCorBankName>
+      <EntriesId>93820525185</EntriesId>
+      <DocComment>ერთიანი სახაზინო კოდი - საბიუჯეტო გადასახადი 101001000: 200122900 სახელმწიფო ხაზინა TRESGE22</DocComment>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>05.04.2025</EntryPDate>
+      <EntryDocNo>0236</EntryDocNo>
+      <EntryLAcct>64049811540100000000</EntryLAcct>
+      <EntryDbAmt>5</EntryDbAmt>
+      <EntryDbAmtBase>5</EntryDbAmtBase>
+      <OutBalance>2,043.05</OutBalance>
+      <EntryAmtBase>5</EntryAmtBase>
+      <EntryComment>გადარიცხვის საკომისიო: გასასახადების ერთიანი კოდი</EntryComment>
+      <EntryDepartment>CENT14</EntryDepartment>
+      <EntryAcctPoint>CENTRAL14</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>ერთიანი სახაზინო კოდი - საბიუჯეტო გადასახადი</DocBenefName>
+      <DocBenefAcctNo>200122900</DocBenefAcctNo>
+      <DocBenefBic>TRESGE22</DocBenefBic>
+      <DocBenefBicName>სახელმწიფო ხაზინა</DocBenefBicName>
+      <DocTreasureCode>101001000</DocTreasureCode>
+      <DocPayerName>შპს  მს ჯგუფი</DocPayerName>
+      <DocPayerInn>405167947</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 05/04/2025 20:48:50; თანხა:GEL 19; საკომისიო: GEL 0.67; ბარათი: AMEX, 375121716***6121; კოდი: 613917; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW295P; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 05/04/2025 20:48:50; თანხა:GEL 19; საკომისიო: GEL 0.67; ბარათი: AMEX, 375121716***6121; კოდი: 613917; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW295P; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>18.33</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>18.33</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26690321937</DocKey>
+      <DocRecDate>05.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>6982327335</DocNo>
+      <DocValueDate>05.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>93867267037</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>05.04.2025</EntryPDate>
+      <EntryDocNo>6982327335</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>18.33</EntryCrAmt>
+      <OutBalance>61.38</OutBalance>
+      <EntryCrAmtBase>18.33</EntryCrAmtBase>
+      <EntryAmtBase>18.33</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 05/04/2025 20:48:50; თანხა:GEL 19; საკომისიო: GEL 0.67; ბარათი: AMEX, 375121716***6121; კოდი: 613917; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW295P; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>61.38</DayAmt>
+      <DayAmtBase>61.38</DayAmtBase>
+      <VsumCr>18.33</VsumCr>
+      <DaySumDb>2005</DaySumDb>
+      <DayEntryCount>3</DayEntryCount>
+      <DayDate>05.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="06.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 06/04/2025 21:46:20; თანხა:GEL 68; საკომისიო: GEL 1.02; ბარათი: AMEXD, 374669021***2458; კოდი: 411212; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW296Q; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 06/04/2025 21:46:20; თანხა:GEL 68; საკომისიო: GEL 1.02; ბარათი: AMEXD, 374669021***2458; კოდი: 411212; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW296Q; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>66.98</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>66.98</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26704790143</DocKey>
+      <DocRecDate>06.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>6989854919</DocNo>
+      <DocValueDate>06.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>93916510797</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>06.04.2025</EntryPDate>
+      <EntryDocNo>6989854919</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>66.98</EntryCrAmt>
+      <OutBalance>176.62</OutBalance>
+      <EntryCrAmtBase>66.98</EntryCrAmtBase>
+      <EntryAmtBase>66.98</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 06/04/2025 21:46:20; თანხა:GEL 68; საკომისიო: GEL 1.02; ბარათი: AMEXD, 374669021***2458; კოდი: 411212; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW296Q; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 06/04/2025 23:00:50; თანხა:GEL 49; საკომისიო: GEL 0.74; ბარათი: AMEXD, 374669022***9244; კოდი: 956988; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW296Q; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 06/04/2025 23:00:50; თანხა:GEL 49; საკომისიო: GEL 0.74; ბარათი: AMEXD, 374669022***9244; კოდი: 956988; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW296Q; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>48.26</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>48.26</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26705340187</DocKey>
+      <DocRecDate>06.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>6990120043</DocNo>
+      <DocValueDate>06.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>93917853278</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>06.04.2025</EntryPDate>
+      <EntryDocNo>6990120043</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>48.26</EntryCrAmt>
+      <OutBalance>109.64</OutBalance>
+      <EntryCrAmtBase>48.26</EntryCrAmtBase>
+      <EntryAmtBase>48.26</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 06/04/2025 23:00:50; თანხა:GEL 49; საკომისიო: GEL 0.74; ბარათი: AMEXD, 374669022***9244; კოდი: 956988; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW296Q; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>176.62</DayAmt>
+      <DayAmtBase>176.62</DayAmtBase>
+      <VsumCr>115.24</VsumCr>
+      <DayEntryCount>2</DayEntryCount>
+      <DayDate>06.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="07.04.2025">
+    <DETAIL>
+      <CanCopyDocument>True</CanCopyDocument>
+      <CanViewDocument>True</CanViewDocument>
+      <CanPrintDocument>True</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>პოს ტერმინალის მომსახურების დამატებითი საკომისიო</DocNomination>
+      <DocInformation>პოს ტერმინალის მომსახურების დამატებითი საკომისიო</DocInformation>
+      <DocSrcAmt>50</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>50</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26708358601</DocKey>
+      <DocRecDate>07.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>CENT00</DocDepartment>
+      <DocProdGroup>PMD</DocProdGroup>
+      <DocNo>0104</DocNo>
+      <DocValueDate>07.04.2025</DocValueDate>
+      <DocSenderName>შპს  მს ჯგუფი</DocSenderName>
+      <DocSenderInn>405167947</DocSenderInn>
+      <DocSenderAcctNo>GE30BG0000000664216500GEL</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocActualDate>07.04.2025</DocActualDate>
+      <DocCorAcct>64079810304600000000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>93927889322</EntriesId>
+      <DocComment>ცენტრალური 64079810304600000000 სს "საქართველოს ბანკი" BAGAGE22</DocComment>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>07.04.2025</EntryPDate>
+      <EntryDocNo>0104</EntryDocNo>
+      <EntryLAcct>64079810304600000000</EntryLAcct>
+      <EntryDbAmt>50</EntryDbAmt>
+      <EntryDbAmtBase>50</EntryDbAmtBase>
+      <OutBalance>126.62</OutBalance>
+      <EntryAmtBase>50</EntryAmtBase>
+      <EntryComment>პოს ტერმინალის მომსახურების დამატებითი საკომისიო</EntryComment>
+      <EntryDepartment>VAKE00</EntryDepartment>
+      <EntryAcctPoint>VAKE00</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>ცენტრალური</DocBenefName>
+      <DocBenefInn>204378869</DocBenefInn>
+      <DocBenefAcctNo>64079810304600000000</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>შპს  მს ჯგუფი</DocPayerName>
+      <DocPayerInn>405167947</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 07/04/2025 23:53:19; თანხა:GEL 81.5; საკომისიო: GEL 2.85; ბარათი: AMEX, 379897119***1891; კოდი: 674398; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW297R; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 07/04/2025 23:53:19; თანხა:GEL 81.5; საკომისიო: GEL 2.85; ბარათი: AMEX, 379897119***1891; კოდი: 674398; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW297R; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>78.65</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>78.65</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26722163829</DocKey>
+      <DocRecDate>07.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>6997634187</DocNo>
+      <DocValueDate>07.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>93969607011</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>07.04.2025</EntryPDate>
+      <EntryDocNo>6997634187</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>78.65</EntryCrAmt>
+      <OutBalance>205.27</OutBalance>
+      <EntryCrAmtBase>78.65</EntryCrAmtBase>
+      <EntryAmtBase>78.65</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 07/04/2025 23:53:19; თანხა:GEL 81.5; საკომისიო: GEL 2.85; ბარათი: AMEX, 379897119***1891; კოდი: 674398; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW297R; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>205.27</DayAmt>
+      <DayAmtBase>205.27</DayAmtBase>
+      <VsumCr>78.65</VsumCr>
+      <DaySumDb>50</DaySumDb>
+      <DayEntryCount>2</DayEntryCount>
+      <DayDate>07.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="08.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 08/04/2025 17:25:38; თანხა:GEL 9; საკომისიო: GEL 0.14; ბარათი: AMEXD, 374669028***9424; კოდი: 435676; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW298S; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 08/04/2025 17:25:38; თანხა:GEL 9; საკომისიო: GEL 0.14; ბარათი: AMEXD, 374669028***9424; კოდი: 435676; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW298S; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>8.86</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>8.86</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26734204226</DocKey>
+      <DocRecDate>08.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7002772724</DocNo>
+      <DocValueDate>08.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94010591918</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>08.04.2025</EntryPDate>
+      <EntryDocNo>7002772724</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>8.86</EntryCrAmt>
+      <OutBalance>214.13</OutBalance>
+      <EntryCrAmtBase>8.86</EntryCrAmtBase>
+      <EntryAmtBase>8.86</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 08/04/2025 17:25:38; თანხა:GEL 9; საკომისიო: GEL 0.14; ბარათი: AMEXD, 374669028***9424; კოდი: 435676; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW298S; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 08/04/2025 20:20:06; თანხა:GEL 59.5; საკომისიო: GEL 2.08; ბარათი: AMEX, 379897116***6446; კოდი: 681952; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW298S; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 08/04/2025 20:20:06; თანხა:GEL 59.5; საკომისიო: GEL 2.08; ბარათი: AMEX, 379897116***6446; კოდი: 681952; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW298S; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>57.42</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>57.42</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26736705397</DocKey>
+      <DocRecDate>08.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7004249846</DocNo>
+      <DocValueDate>08.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94017124518</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>08.04.2025</EntryPDate>
+      <EntryDocNo>7004249846</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>57.42</EntryCrAmt>
+      <OutBalance>271.55</OutBalance>
+      <EntryCrAmtBase>57.42</EntryCrAmtBase>
+      <EntryAmtBase>57.42</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 08/04/2025 20:20:06; თანხა:GEL 59.5; საკომისიო: GEL 2.08; ბარათი: AMEX, 379897116***6446; კოდი: 681952; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW298S; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>271.55</DayAmt>
+      <DayAmtBase>271.55</DayAmtBase>
+      <VsumCr>66.28</VsumCr>
+      <DayEntryCount>2</DayEntryCount>
+      <DayDate>08.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="10.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 10/04/2025 17:53:26; თანხა:GEL 58; საკომისიო: GEL 0.87; ბარათი: MC, 548888035***8694; კოდი: 885572; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-0U; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 10/04/2025 17:53:26; თანხა:GEL 58; საკომისიო: GEL 0.87; ბარათი: MC, 548888035***8694; კოდი: 885572; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-0U; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>57.13</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>57.13</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26764066250</DocKey>
+      <DocRecDate>10.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7016539079</DocNo>
+      <DocValueDate>10.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94108634203</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>10.04.2025</EntryPDate>
+      <EntryDocNo>7016539079</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>57.13</EntryCrAmt>
+      <OutBalance>328.68</OutBalance>
+      <EntryCrAmtBase>57.13</EntryCrAmtBase>
+      <EntryAmtBase>57.13</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 10/04/2025 17:53:26; თანხა:GEL 58; საკომისიო: GEL 0.87; ბარათი: MC, 548888035***8694; კოდი: 885572; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-0U; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>328.68</DayAmt>
+      <DayAmtBase>328.68</DayAmtBase>
+      <VsumCr>57.13</VsumCr>
+      <DayEntryCount>1</DayEntryCount>
+      <DayDate>10.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="11.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 11/04/2025 18:18:38; თანხა:GEL 19; საკომისიო: GEL 0.67; ბარათი: AMEX, 37512171***4064; კოდი: 624343; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-1V; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 11/04/2025 18:18:38; თანხა:GEL 19; საკომისიო: GEL 0.67; ბარათი: AMEX, 37512171***4064; კოდი: 624343; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-1V; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>18.33</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>18.33</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26781019627</DocKey>
+      <DocRecDate>11.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7024295029</DocNo>
+      <DocValueDate>11.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94162439952</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>11.04.2025</EntryPDate>
+      <EntryDocNo>7024295029</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>18.33</EntryCrAmt>
+      <OutBalance>347.01</OutBalance>
+      <EntryCrAmtBase>18.33</EntryCrAmtBase>
+      <EntryAmtBase>18.33</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 11/04/2025 18:18:38; თანხა:GEL 19; საკომისიო: GEL 0.67; ბარათი: AMEX, 37512171***4064; კოდი: 624343; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-1V; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 11/04/2025 20:46:27; თანხა:GEL 28; საკომისიო: GEL 0.42; ბარათი: VISA, 411634008***6559; კოდი: 635593; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-1V; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 11/04/2025 20:46:27; თანხა:GEL 28; საკომისიო: GEL 0.42; ბარათი: VISA, 411634008***6559; კოდი: 635593; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-1V; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>27.58</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>27.58</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26783108245</DocKey>
+      <DocRecDate>11.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7025571154</DocNo>
+      <DocValueDate>11.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94167871950</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>11.04.2025</EntryPDate>
+      <EntryDocNo>7025571154</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>27.58</EntryCrAmt>
+      <OutBalance>374.59</OutBalance>
+      <EntryCrAmtBase>27.58</EntryCrAmtBase>
+      <EntryAmtBase>27.58</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 11/04/2025 20:46:27; თანხა:GEL 28; საკომისიო: GEL 0.42; ბარათი: VISA, 411634008***6559; კოდი: 635593; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-1V; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 11/04/2025 21:46:48; თანხა:GEL 88.5; საკომისიო: GEL 3.1; ბარათი: AMEX, 37512171***4064; კოდი: 797563; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-1V; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 11/04/2025 21:46:48; თანხა:GEL 88.5; საკომისიო: GEL 3.1; ბარათი: AMEX, 37512171***4064; კოდი: 797563; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-1V; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>85.4</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>85.4</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26783776594</DocKey>
+      <DocRecDate>11.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7025949123</DocNo>
+      <DocValueDate>11.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94169573405</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>11.04.2025</EntryPDate>
+      <EntryDocNo>7025949123</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>85.4</EntryCrAmt>
+      <OutBalance>459.99</OutBalance>
+      <EntryCrAmtBase>85.4</EntryCrAmtBase>
+      <EntryAmtBase>85.4</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 11/04/2025 21:46:48; თანხა:GEL 88.5; საკომისიო: GEL 3.1; ბარათი: AMEX, 37512171***4064; კოდი: 797563; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-1V; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>459.99</DayAmt>
+      <DayAmtBase>459.99</DayAmtBase>
+      <VsumCr>131.31</VsumCr>
+      <DayEntryCount>3</DayEntryCount>
+      <DayDate>11.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="12.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 12/04/2025 17:02:16; თანხა:GEL 95; საკომისიო: GEL 3.33; ბარათი: AMEX, 379897348***5016; კოდი: 948469; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-2W; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 12/04/2025 17:02:16; თანხა:GEL 95; საკომისიო: GEL 3.33; ბარათი: AMEX, 379897348***5016; კოდი: 948469; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-2W; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>91.67</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>91.67</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26794484616</DocKey>
+      <DocRecDate>12.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7031060106</DocNo>
+      <DocValueDate>12.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94205162590</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>12.04.2025</EntryPDate>
+      <EntryDocNo>7031060106</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>91.67</EntryCrAmt>
+      <OutBalance>655.58</OutBalance>
+      <EntryCrAmtBase>91.67</EntryCrAmtBase>
+      <EntryAmtBase>91.67</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 12/04/2025 17:02:16; თანხა:GEL 95; საკომისიო: GEL 3.33; ბარათი: AMEX, 379897348***5016; კოდი: 948469; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-2W; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 12/04/2025 17:42:26; თანხა:GEL 14; საკომისიო: GEL 0.21; ბარათი: MC, 548888035***4518; კოდი: 869412; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-2W; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 12/04/2025 17:42:26; თანხა:GEL 14; საკომისიო: GEL 0.21; ბარათი: MC, 548888035***4518; კოდი: 869412; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-2W; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>13.79</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>13.79</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26794987520</DocKey>
+      <DocRecDate>12.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7031361469</DocNo>
+      <DocValueDate>12.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94206459489</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>12.04.2025</EntryPDate>
+      <EntryDocNo>7031361469</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>13.79</EntryCrAmt>
+      <OutBalance>473.78</OutBalance>
+      <EntryCrAmtBase>13.79</EntryCrAmtBase>
+      <EntryAmtBase>13.79</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 12/04/2025 17:42:26; თანხა:GEL 14; საკომისიო: GEL 0.21; ბარათი: MC, 548888035***4518; კოდი: 869412; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-2W; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 12/04/2025 20:12:50; თანხა:GEL 91.5; საკომისიო: GEL 1.37; ბარათი: AMEXD, 37466901***5732; კოდი: 289235; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-2W; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 12/04/2025 20:12:50; თანხა:GEL 91.5; საკომისიო: GEL 1.37; ბარათი: AMEXD, 37466901***5732; კოდი: 289235; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-2W; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>90.13</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>90.13</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26797108214</DocKey>
+      <DocRecDate>12.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7032450947</DocNo>
+      <DocValueDate>12.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94215452945</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>12.04.2025</EntryPDate>
+      <EntryDocNo>7032450947</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>90.13</EntryCrAmt>
+      <OutBalance>563.91</OutBalance>
+      <EntryCrAmtBase>90.13</EntryCrAmtBase>
+      <EntryAmtBase>90.13</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 12/04/2025 20:12:50; თანხა:GEL 91.5; საკომისიო: GEL 1.37; ბარათი: AMEXD, 37466901***5732; კოდი: 289235; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-2W; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>655.58</DayAmt>
+      <DayAmtBase>655.58</DayAmtBase>
+      <VsumCr>195.59</VsumCr>
+      <DayEntryCount>3</DayEntryCount>
+      <DayDate>12.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="13.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 13/04/2025 20:04:46; თანხა:GEL 69; საკომისიო: GEL 1.04; ბარათი: AMEXD, 37466902***4523; კოდი: 139791; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 13/04/2025 20:04:46; თანხა:GEL 69; საკომისიო: GEL 1.04; ბარათი: AMEXD, 37466902***4523; კოდი: 139791; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>67.96</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>67.96</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26810542614</DocKey>
+      <DocRecDate>13.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7039214851</DocNo>
+      <DocValueDate>13.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94262181817</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>13.04.2025</EntryPDate>
+      <EntryDocNo>7039214851</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>67.96</EntryCrAmt>
+      <OutBalance>883.56</OutBalance>
+      <EntryCrAmtBase>67.96</EntryCrAmtBase>
+      <EntryAmtBase>67.96</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 13/04/2025 20:04:46; თანხა:GEL 69; საკომისიო: GEL 1.04; ბარათი: AMEXD, 37466902***4523; კოდი: 139791; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 13/04/2025 20:36:26; თანხა:GEL 48; საკომისიო: GEL 0.96; ბარათი: VISA, 425684344***8034; კოდი: 355828; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 13/04/2025 20:36:26; თანხა:GEL 48; საკომისიო: GEL 0.96; ბარათი: VISA, 425684344***8034; კოდი: 355828; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>47.04</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>47.04</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26810868801</DocKey>
+      <DocRecDate>13.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7039406386</DocNo>
+      <DocValueDate>13.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94263020568</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>13.04.2025</EntryPDate>
+      <EntryDocNo>7039406386</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>47.04</EntryCrAmt>
+      <OutBalance>702.62</OutBalance>
+      <EntryCrAmtBase>47.04</EntryCrAmtBase>
+      <EntryAmtBase>47.04</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 13/04/2025 20:36:26; თანხა:GEL 48; საკომისიო: GEL 0.96; ბარათი: VISA, 425684344***8034; კოდი: 355828; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 13/04/2025 21:24:26; თანხა:GEL 72; საკომისიო: GEL 1.08; ბარათი: AMEXD, 374669015***5202; კოდი: 353422; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 13/04/2025 21:24:26; თანხა:GEL 72; საკომისიო: GEL 1.08; ბარათი: AMEXD, 374669015***5202; კოდი: 353422; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>70.92</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>70.92</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26811315403</DocKey>
+      <DocRecDate>13.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7039654775</DocNo>
+      <DocValueDate>13.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94264152852</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>13.04.2025</EntryPDate>
+      <EntryDocNo>7039654775</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>70.92</EntryCrAmt>
+      <OutBalance>954.48</OutBalance>
+      <EntryCrAmtBase>70.92</EntryCrAmtBase>
+      <EntryAmtBase>70.92</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 13/04/2025 21:24:26; თანხა:GEL 72; საკომისიო: GEL 1.08; ბარათი: AMEXD, 374669015***5202; კოდი: 353422; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 13/04/2025 22:03:11; თანხა:GEL 52; საკომისიო: GEL 0.78; ბარათი: MC, 548888027***5791; კოდი: 692853; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 13/04/2025 22:03:11; თანხა:GEL 52; საკომისიო: GEL 0.78; ბარათი: MC, 548888027***5791; კოდი: 692853; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>51.22</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>51.22</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26811627339</DocKey>
+      <DocRecDate>13.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7039812354</DocNo>
+      <DocValueDate>13.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94264922791</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>13.04.2025</EntryPDate>
+      <EntryDocNo>7039812354</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>51.22</EntryCrAmt>
+      <OutBalance>753.84</OutBalance>
+      <EntryCrAmtBase>51.22</EntryCrAmtBase>
+      <EntryAmtBase>51.22</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 13/04/2025 22:03:11; თანხა:GEL 52; საკომისიო: GEL 0.78; ბარათი: MC, 548888027***5791; კოდი: 692853; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 13/04/2025 23:07:09; თანხა:GEL 274.5; საკომისიო: GEL 9.61; ბარათი: AMEX, 37989721***0905; კოდი: 867894; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 13/04/2025 23:07:09; თანხა:GEL 274.5; საკომისიო: GEL 9.61; ბარათი: AMEX, 37989721***0905; კოდი: 867894; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>264.89</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>264.89</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26812024342</DocKey>
+      <DocRecDate>13.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7039981826</DocNo>
+      <DocValueDate>13.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94265870189</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>13.04.2025</EntryPDate>
+      <EntryDocNo>7039981826</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>264.89</EntryCrAmt>
+      <OutBalance>1,219.37</OutBalance>
+      <EntryCrAmtBase>264.89</EntryCrAmtBase>
+      <EntryAmtBase>264.89</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 13/04/2025 23:07:09; თანხა:GEL 274.5; საკომისიო: GEL 9.61; ბარათი: AMEX, 37989721***0905; კოდი: 867894; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 13/04/2025 23:51:08; თანხა:GEL 64; საკომისიო: GEL 2.24; ბარათი: AMEX, 37989721***0905; კოდი: 161455; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 13/04/2025 23:51:08; თანხა:GEL 64; საკომისიო: GEL 2.24; ბარათი: AMEX, 37989721***0905; კოდი: 161455; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>61.76</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>61.76</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26812219997</DocKey>
+      <DocRecDate>13.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7040048332</DocNo>
+      <DocValueDate>13.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94266329469</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>13.04.2025</EntryPDate>
+      <EntryDocNo>7040048332</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>61.76</EntryCrAmt>
+      <OutBalance>815.60</OutBalance>
+      <EntryCrAmtBase>61.76</EntryCrAmtBase>
+      <EntryAmtBase>61.76</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 13/04/2025 23:51:08; თანხა:GEL 64; საკომისიო: GEL 2.24; ბარათი: AMEX, 37989721***0905; კოდი: 161455; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-3X; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>1219.37</DayAmt>
+      <DayAmtBase>1219.37</DayAmtBase>
+      <VsumCr>563.79</VsumCr>
+      <DayEntryCount>6</DayEntryCount>
+      <DayDate>13.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="14.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 14/04/2025 11:07:24; თანხა:GEL 17.5; საკომისიო: GEL 0.61; ბარათი: AMEX, 37989734***7431; კოდი: 754495; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-4Y; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 14/04/2025 11:07:24; თანხა:GEL 17.5; საკომისიო: GEL 0.61; ბარათი: AMEX, 37989734***7431; კოდი: 754495; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-4Y; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>16.89</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>16.89</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26817259452</DocKey>
+      <DocRecDate>14.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7042045564</DocNo>
+      <DocValueDate>14.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94284015816</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>14.04.2025</EntryPDate>
+      <EntryDocNo>7042045564</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>16.89</EntryCrAmt>
+      <OutBalance>231.26</OutBalance>
+      <EntryCrAmtBase>16.89</EntryCrAmtBase>
+      <EntryAmtBase>16.89</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 14/04/2025 11:07:24; თანხა:GEL 17.5; საკომისიო: GEL 0.61; ბარათი: AMEX, 37989734***7431; კოდი: 754495; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-4Y; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>True</CanCopyDocument>
+      <CanViewDocument>True</CanViewDocument>
+      <CanPrintDocument>True</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გასასახადების ერთიანი კოდი</DocNomination>
+      <DocInformation>გასასახადების ერთიანი კოდი</DocInformation>
+      <DocSrcAmt>1000</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>1000</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26819123796</DocKey>
+      <DocRecDate>14.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>CENT14</DocDepartment>
+      <DocProdGroup>PMD</DocProdGroup>
+      <DocNo>0238</DocNo>
+      <DocValueDate>14.04.2025</DocValueDate>
+      <DocSenderName>შპს  მს ჯგუფი</DocSenderName>
+      <DocSenderInn>405167947</DocSenderInn>
+      <DocSenderAcctNo>GE30BG0000000664216500GEL</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocActualDate>14.04.2025</DocActualDate>
+      <DocCorAcct>200122900</DocCorAcct>
+      <DocCorBic>TRESGE22</DocCorBic>
+      <DocCorBankName>სახელმწიფო ხაზინა</DocCorBankName>
+      <EntriesId>94291940924</EntriesId>
+      <DocComment>ერთიანი სახაზინო კოდი - საბიუჯეტო გადასახადი 101001000: 200122900 სახელმწიფო ხაზინა TRESGE22</DocComment>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>14.04.2025</EntryPDate>
+      <EntryDocNo>0238</EntryDocNo>
+      <EntryLAcct>48319810200100000000</EntryLAcct>
+      <EntryDbAmt>1000</EntryDbAmt>
+      <EntryDbAmtBase>1000</EntryDbAmtBase>
+      <OutBalance>214.37</OutBalance>
+      <EntryAmtBase>1000</EntryAmtBase>
+      <EntryComment>გასასახადების ერთიანი კოდი</EntryComment>
+      <EntryDepartment>CENT00</EntryDepartment>
+      <EntryAcctPoint>BANK</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>ერთიანი სახაზინო კოდი - საბიუჯეტო გადასახადი</DocBenefName>
+      <DocBenefAcctNo>200122900</DocBenefAcctNo>
+      <DocBenefBic>TRESGE22</DocBenefBic>
+      <DocBenefBicName>სახელმწიფო ხაზინა</DocBenefBicName>
+      <DocTreasureCode>101001000</DocTreasureCode>
+      <DocPayerName>შპს  მს ჯგუფი</DocPayerName>
+      <DocPayerInn>405167947</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>True</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გასასახადების ერთიანი კოდი</DocNomination>
+      <DocInformation>გასასახადების ერთიანი კოდი</DocInformation>
+      <DocSrcAmt>5</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>5</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26819123796</DocKey>
+      <DocRecDate>14.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>CENT14</DocDepartment>
+      <DocProdGroup>COM</DocProdGroup>
+      <DocNo>0238</DocNo>
+      <DocValueDate>14.04.2025</DocValueDate>
+      <DocSenderName>შპს  მს ჯგუფი</DocSenderName>
+      <DocSenderInn>405167947</DocSenderInn>
+      <DocSenderAcctNo>GE30BG0000000664216500GEL</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocActualDate>14.04.2025</DocActualDate>
+      <DocCorAcct>200122900</DocCorAcct>
+      <DocCorBic>TRESGE22</DocCorBic>
+      <DocCorBankName>სახელმწიფო ხაზინა</DocCorBankName>
+      <EntriesId>94291940925</EntriesId>
+      <DocComment>ერთიანი სახაზინო კოდი - საბიუჯეტო გადასახადი 101001000: 200122900 სახელმწიფო ხაზინა TRESGE22</DocComment>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>14.04.2025</EntryPDate>
+      <EntryDocNo>0238</EntryDocNo>
+      <EntryLAcct>64049811540100000000</EntryLAcct>
+      <EntryDbAmt>5</EntryDbAmt>
+      <EntryDbAmtBase>5</EntryDbAmtBase>
+      <OutBalance>1,214.37</OutBalance>
+      <EntryAmtBase>5</EntryAmtBase>
+      <EntryComment>გადარიცხვის საკომისიო: გასასახადების ერთიანი კოდი</EntryComment>
+      <EntryDepartment>CENT14</EntryDepartment>
+      <EntryAcctPoint>CENTRAL14</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>ერთიანი სახაზინო კოდი - საბიუჯეტო გადასახადი</DocBenefName>
+      <DocBenefAcctNo>200122900</DocBenefAcctNo>
+      <DocBenefBic>TRESGE22</DocBenefBic>
+      <DocBenefBicName>სახელმწიფო ხაზინა</DocBenefBicName>
+      <DocTreasureCode>101001000</DocTreasureCode>
+      <DocPayerName>შპს  მს ჯგუფი</DocPayerName>
+      <DocPayerInn>405167947</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 14/04/2025 23:24:42; თანხა:GEL 30; საკომისიო: GEL 0.45; ბარათი: AMEXD, 374669038***0161; კოდი: 415335; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-4Y; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 14/04/2025 23:24:42; თანხა:GEL 30; საკომისიო: GEL 0.45; ბარათი: AMEXD, 374669038***0161; კოდი: 415335; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-4Y; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>29.55</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>29.55</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26827274469</DocKey>
+      <DocRecDate>14.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7046953003</DocNo>
+      <DocValueDate>14.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94314701708</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>14.04.2025</EntryPDate>
+      <EntryDocNo>7046953003</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>29.55</EntryCrAmt>
+      <OutBalance>260.81</OutBalance>
+      <EntryCrAmtBase>29.55</EntryCrAmtBase>
+      <EntryAmtBase>29.55</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 14/04/2025 23:24:42; თანხა:GEL 30; საკომისიო: GEL 0.45; ბარათი: AMEXD, 374669038***0161; კოდი: 415335; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-4Y; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>260.81</DayAmt>
+      <DayAmtBase>260.81</DayAmtBase>
+      <VsumCr>46.44</VsumCr>
+      <DaySumDb>1005</DaySumDb>
+      <DayEntryCount>4</DayEntryCount>
+      <DayDate>14.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="15.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>Business Package S პაკეტის მომსახურების საკომისიო </DocNomination>
+      <DocInformation>Business Package S პაკეტის მომსახურების საკომისიო </DocInformation>
+      <DocSrcAmt>5</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>5</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26845046564</DocKey>
+      <DocRecDate>16.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>VAKE00</DocDepartment>
+      <DocProdGroup>FEE</DocProdGroup>
+      <DocNo>FEE</DocNo>
+      <DocValueDate>15.04.2025</DocValueDate>
+      <DocSenderName>შპს  მს ჯგუფი</DocSenderName>
+      <DocSenderInn>405167947</DocSenderInn>
+      <DocSenderAcctNo>GE30BG0000000664216500GEL</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>64049811540200000000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94368938264</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>15.04.2025</EntryPDate>
+      <EntryDocNo>FEE</EntryDocNo>
+      <EntryLAcct>64049811540200000000</EntryLAcct>
+      <EntryDbAmt>5</EntryDbAmt>
+      <EntryDbAmtBase>5</EntryDbAmtBase>
+      <OutBalance>255.81</OutBalance>
+      <EntryAmtBase>5</EntryAmtBase>
+      <EntryComment>Business Package S პაკეტის მომსახურების საკომისიო </EntryComment>
+      <EntryDepartment>CENT14</EntryDepartment>
+      <EntryAcctPoint>CENTRAL14</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefAcctNo>64049811540200000000</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>შპს  მს ჯგუფი</DocPayerName>
+      <DocPayerInn>405167947</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>255.81</DayAmt>
+      <DayAmtBase>255.81</DayAmtBase>
+      <DaySumDb>5</DaySumDb>
+      <DayEntryCount>1</DayEntryCount>
+      <DayDate>15.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="17.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 17/04/2025 22:30:46; თანხა:GEL 85; საკომისიო: GEL 2.98; ბარათი: AMEX, 379897214***0148; კოდი: 815822; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-72; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 17/04/2025 22:30:46; თანხა:GEL 85; საკომისიო: GEL 2.98; ბარათი: AMEX, 379897214***0148; კოდი: 815822; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-72; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>82.02</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>82.02</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26878186264</DocKey>
+      <DocRecDate>17.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7069963080</DocNo>
+      <DocValueDate>17.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94479260280</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>17.04.2025</EntryPDate>
+      <EntryDocNo>7069963080</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>82.02</EntryCrAmt>
+      <OutBalance>337.83</OutBalance>
+      <EntryCrAmtBase>82.02</EntryCrAmtBase>
+      <EntryAmtBase>82.02</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 17/04/2025 22:30:46; თანხა:GEL 85; საკომისიო: GEL 2.98; ბარათი: AMEX, 379897214***0148; კოდი: 815822; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-72; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>337.83</DayAmt>
+      <DayAmtBase>337.83</DayAmtBase>
+      <VsumCr>82.02</VsumCr>
+      <DayEntryCount>1</DayEntryCount>
+      <DayDate>17.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="19.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 19/04/2025 15:23:56; თანხა:GEL 42; საკომისიო: GEL 1.47; ბარათი: AMEX, 379897344***3136; კოდი: 652765; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-94; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 19/04/2025 15:23:56; თანხა:GEL 42; საკომისიო: GEL 1.47; ბარათი: AMEX, 379897344***3136; კოდი: 652765; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-94; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>40.53</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>40.53</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26901951455</DocKey>
+      <DocRecDate>19.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7082189881</DocNo>
+      <DocValueDate>19.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94561916505</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>19.04.2025</EntryPDate>
+      <EntryDocNo>7082189881</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>40.53</EntryCrAmt>
+      <OutBalance>378.36</OutBalance>
+      <EntryCrAmtBase>40.53</EntryCrAmtBase>
+      <EntryAmtBase>40.53</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 19/04/2025 15:23:56; თანხა:GEL 42; საკომისიო: GEL 1.47; ბარათი: AMEX, 379897344***3136; კოდი: 652765; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2-94; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>378.36</DayAmt>
+      <DayAmtBase>378.36</DayAmtBase>
+      <VsumCr>40.53</VsumCr>
+      <DayEntryCount>1</DayEntryCount>
+      <DayDate>19.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="20.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 20/04/2025 16:31:22; თანხა:GEL 46; საკომისიო: GEL 0.69; ბარათი: MC, 548888027***8182; კოდი: 864431; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A05; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 20/04/2025 16:31:22; თანხა:GEL 46; საკომისიო: GEL 0.69; ბარათი: MC, 548888027***8182; კოდი: 864431; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A05; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>45.31</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>45.31</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26913792786</DocKey>
+      <DocRecDate>20.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7088188696</DocNo>
+      <DocValueDate>20.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94603010303</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>20.04.2025</EntryPDate>
+      <EntryDocNo>7088188696</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>45.31</EntryCrAmt>
+      <OutBalance>423.67</OutBalance>
+      <EntryCrAmtBase>45.31</EntryCrAmtBase>
+      <EntryAmtBase>45.31</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 20/04/2025 16:31:22; თანხა:GEL 46; საკომისიო: GEL 0.69; ბარათი: MC, 548888027***8182; კოდი: 864431; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A05; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 20/04/2025 17:10:54; თანხა:GEL 123; საკომისიო: GEL 1.85; ბარათი: AMEXD, 374669058***0841; კოდი: 414751; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A05; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 20/04/2025 17:10:54; თანხა:GEL 123; საკომისიო: GEL 1.85; ბარათი: AMEXD, 374669058***0841; კოდი: 414751; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A05; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>121.15</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>121.15</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26914422343</DocKey>
+      <DocRecDate>20.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7088345582</DocNo>
+      <DocValueDate>20.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94607719926</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>20.04.2025</EntryPDate>
+      <EntryDocNo>7088345582</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>121.15</EntryCrAmt>
+      <OutBalance>631.68</OutBalance>
+      <EntryCrAmtBase>121.15</EntryCrAmtBase>
+      <EntryAmtBase>121.15</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 20/04/2025 17:10:54; თანხა:GEL 123; საკომისიო: GEL 1.85; ბარათი: AMEXD, 374669058***0841; კოდი: 414751; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A05; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 20/04/2025 23:05:46; თანხა:GEL 89; საკომისიო: GEL 2.14; ბარათი: MC, 522948902***4302; კოდი: 345766; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A05; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 20/04/2025 23:05:46; თანხა:GEL 89; საკომისიო: GEL 2.14; ბარათი: MC, 522948902***4302; კოდი: 345766; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A05; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>86.86</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>86.86</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26916601109</DocKey>
+      <DocRecDate>20.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7089513308</DocNo>
+      <DocValueDate>20.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94613190030</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>20.04.2025</EntryPDate>
+      <EntryDocNo>7089513308</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>86.86</EntryCrAmt>
+      <OutBalance>510.53</OutBalance>
+      <EntryCrAmtBase>86.86</EntryCrAmtBase>
+      <EntryAmtBase>86.86</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 20/04/2025 23:05:46; თანხა:GEL 89; საკომისიო: GEL 2.14; ბარათი: MC, 522948902***4302; კოდი: 345766; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A05; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>631.68</DayAmt>
+      <DayAmtBase>631.68</DayAmtBase>
+      <VsumCr>253.32</VsumCr>
+      <DayEntryCount>3</DayEntryCount>
+      <DayDate>20.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="21.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 21/04/2025 18:05:57; თანხა:GEL 27.97; საკომისიო: GEL 0.42; ბარათი: AMEXD, 374669088***3372; კოდი: 847955; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A16; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 21/04/2025 18:05:57; თანხა:GEL 27.97; საკომისიო: GEL 0.42; ბარათი: AMEXD, 374669088***3372; კოდი: 847955; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A16; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>27.55</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>27.55</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26923512082</DocKey>
+      <DocRecDate>21.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7092867916</DocNo>
+      <DocValueDate>21.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94637408704</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>21.04.2025</EntryPDate>
+      <EntryDocNo>7092867916</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>27.55</EntryCrAmt>
+      <OutBalance>659.23</OutBalance>
+      <EntryCrAmtBase>27.55</EntryCrAmtBase>
+      <EntryAmtBase>27.55</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 21/04/2025 18:05:57; თანხა:GEL 27.97; საკომისიო: GEL 0.42; ბარათი: AMEXD, 374669088***3372; კოდი: 847955; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A16; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>659.23</DayAmt>
+      <DayAmtBase>659.23</DayAmtBase>
+      <VsumCr>27.55</VsumCr>
+      <DayEntryCount>1</DayEntryCount>
+      <DayDate>21.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="22.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 22/04/2025 16:46:57; თანხა:GEL 11; საკომისიო: GEL 0.22; ბარათი: VISA, 493253367***1390; კოდი: 936246; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A27; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 22/04/2025 16:46:57; თანხა:GEL 11; საკომისიო: GEL 0.22; ბარათი: VISA, 493253367***1390; კოდი: 936246; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A27; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>10.78</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>10.78</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26936165490</DocKey>
+      <DocRecDate>22.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7098151556</DocNo>
+      <DocValueDate>22.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94680352242</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>22.04.2025</EntryPDate>
+      <EntryDocNo>7098151556</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>10.78</EntryCrAmt>
+      <OutBalance>670.01</OutBalance>
+      <EntryCrAmtBase>10.78</EntryCrAmtBase>
+      <EntryAmtBase>10.78</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 22/04/2025 16:46:57; თანხა:GEL 11; საკომისიო: GEL 0.22; ბარათი: VISA, 493253367***1390; კოდი: 936246; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A27; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 22/04/2025 18:16:25; თანხა:GEL 64; საკომისიო: GEL 1.28; ბარათი: MC, 515881901***8673; კოდი: 548783; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A27; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 22/04/2025 18:16:25; თანხა:GEL 64; საკომისიო: GEL 1.28; ბარათი: MC, 515881901***8673; კოდი: 548783; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A27; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>62.72</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>62.72</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26937374154</DocKey>
+      <DocRecDate>22.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7098829501</DocNo>
+      <DocValueDate>22.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94683495173</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>22.04.2025</EntryPDate>
+      <EntryDocNo>7098829501</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>62.72</EntryCrAmt>
+      <OutBalance>732.73</OutBalance>
+      <EntryCrAmtBase>62.72</EntryCrAmtBase>
+      <EntryAmtBase>62.72</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 22/04/2025 18:16:25; თანხა:GEL 64; საკომისიო: GEL 1.28; ბარათი: MC, 515881901***8673; კოდი: 548783; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A27; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>732.73</DayAmt>
+      <DayAmtBase>732.73</DayAmtBase>
+      <VsumCr>73.5</VsumCr>
+      <DayEntryCount>2</DayEntryCount>
+      <DayDate>22.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="23.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 23/04/2025 12:53:08; თანხა:GEL 107; საკომისიო: GEL 1.61; ბარათი: AMEXD, 37466908***2798; კოდი: 141446; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A38; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 23/04/2025 12:53:08; თანხა:GEL 107; საკომისიო: GEL 1.61; ბარათი: AMEXD, 37466908***2798; კოდი: 141446; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A38; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>105.39</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>105.39</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26948000536</DocKey>
+      <DocRecDate>23.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7103301196</DocNo>
+      <DocValueDate>23.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94716195101</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>23.04.2025</EntryPDate>
+      <EntryDocNo>7103301196</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>105.39</EntryCrAmt>
+      <OutBalance>953.78</OutBalance>
+      <EntryCrAmtBase>105.39</EntryCrAmtBase>
+      <EntryAmtBase>105.39</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 23/04/2025 12:53:08; თანხა:GEL 107; საკომისიო: GEL 1.61; ბარათი: AMEXD, 37466908***2798; კოდი: 141446; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A38; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 23/04/2025 16:29:04; თანხა:GEL 7.5; საკომისიო: GEL 0.18; ბარათი: MC, 516879489***0058; კოდი: R75LEH; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A38; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 23/04/2025 16:29:04; თანხა:GEL 7.5; საკომისიო: GEL 0.18; ბარათი: MC, 516879489***0058; კოდი: R75LEH; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A38; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>7.32</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>7.32</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26951162602</DocKey>
+      <DocRecDate>23.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7105039997</DocNo>
+      <DocValueDate>23.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94724869189</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>23.04.2025</EntryPDate>
+      <EntryDocNo>7105039997</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>7.32</EntryCrAmt>
+      <OutBalance>740.05</OutBalance>
+      <EntryCrAmtBase>7.32</EntryCrAmtBase>
+      <EntryAmtBase>7.32</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 23/04/2025 16:29:04; თანხა:GEL 7.5; საკომისიო: GEL 0.18; ბარათი: MC, 516879489***0058; კოდი: R75LEH; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A38; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 23/04/2025 16:36:19; თანხა:GEL 39; საკომისიო: GEL 0.59; ბარათი: MC, 548888025***2960; კოდი: 763288; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A38; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 23/04/2025 16:36:19; თანხა:GEL 39; საკომისიო: GEL 0.59; ბარათი: MC, 548888025***2960; კოდი: 763288; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A38; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>38.41</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>38.41</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26951546084</DocKey>
+      <DocRecDate>23.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7105097252</DocNo>
+      <DocValueDate>23.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94728923682</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>23.04.2025</EntryPDate>
+      <EntryDocNo>7105097252</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>38.41</EntryCrAmt>
+      <OutBalance>778.46</OutBalance>
+      <EntryCrAmtBase>38.41</EntryCrAmtBase>
+      <EntryAmtBase>38.41</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 23/04/2025 16:36:19; თანხა:GEL 39; საკომისიო: GEL 0.59; ბარათი: MC, 548888025***2960; კოდი: 763288; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A38; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 23/04/2025 22:03:31; თანხა:GEL 71; საკომისიო: GEL 1.07; ბარათი: MC, 531125363***9688; კოდი: 173633; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A38; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 23/04/2025 22:03:31; თანხა:GEL 71; საკომისიო: GEL 1.07; ბარათი: MC, 531125363***9688; კოდი: 173633; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A38; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>69.93</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>69.93</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26955621645</DocKey>
+      <DocRecDate>23.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7107525944</DocNo>
+      <DocValueDate>23.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94739536446</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>23.04.2025</EntryPDate>
+      <EntryDocNo>7107525944</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>69.93</EntryCrAmt>
+      <OutBalance>848.39</OutBalance>
+      <EntryCrAmtBase>69.93</EntryCrAmtBase>
+      <EntryAmtBase>69.93</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 23/04/2025 22:03:31; თანხა:GEL 71; საკომისიო: GEL 1.07; ბარათი: MC, 531125363***9688; კოდი: 173633; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A38; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>953.78</DayAmt>
+      <DayAmtBase>953.78</DayAmtBase>
+      <VsumCr>221.05</VsumCr>
+      <DayEntryCount>4</DayEntryCount>
+      <DayDate>23.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="24.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 24/04/2025 14:46:25; თანხა:GEL 28.8; საკომისიო: GEL 1.01; ბარათი: AMEX, 37989734***7431; კოდი: 492518; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A49; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 24/04/2025 14:46:25; თანხა:GEL 28.8; საკომისიო: GEL 1.01; ბარათი: AMEX, 37989734***7431; კოდი: 492518; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A49; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>27.79</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>27.79</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26964719838</DocKey>
+      <DocRecDate>24.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7111589508</DocNo>
+      <DocValueDate>24.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94770533376</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>24.04.2025</EntryPDate>
+      <EntryDocNo>7111589508</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>27.79</EntryCrAmt>
+      <OutBalance>981.57</OutBalance>
+      <EntryCrAmtBase>27.79</EntryCrAmtBase>
+      <EntryAmtBase>27.79</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 24/04/2025 14:46:25; თანხა:GEL 28.8; საკომისიო: GEL 1.01; ბარათი: AMEX, 37989734***7431; კოდი: 492518; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A49; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 24/04/2025 14:54:51; თანხა:GEL 155; საკომისიო: GEL 5.43; ბარათი: AMEX, 371024371***1001; კოდი: 886791; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A49; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 24/04/2025 14:54:51; თანხა:GEL 155; საკომისიო: GEL 5.43; ბარათი: AMEX, 371024371***1001; კოდი: 886791; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A49; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>149.57</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>149.57</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26964842868</DocKey>
+      <DocRecDate>24.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7111659794</DocNo>
+      <DocValueDate>24.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94770844089</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>24.04.2025</EntryPDate>
+      <EntryDocNo>7111659794</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>149.57</EntryCrAmt>
+      <OutBalance>1,131.14</OutBalance>
+      <EntryCrAmtBase>149.57</EntryCrAmtBase>
+      <EntryAmtBase>149.57</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 24/04/2025 14:54:51; თანხა:GEL 155; საკომისიო: GEL 5.43; ბარათი: AMEX, 371024371***1001; კოდი: 886791; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A49; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>1131.14</DayAmt>
+      <DayAmtBase>1131.14</DayAmtBase>
+      <VsumCr>177.36</VsumCr>
+      <DayEntryCount>2</DayEntryCount>
+      <DayDate>24.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="25.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 25/04/2025 14:27:58; თანხა:GEL 33; საკომისიო: GEL 0.5; ბარათი: VISA, 418699002***4626; კოდი: 441223; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A5-; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 25/04/2025 14:27:58; თანხა:GEL 33; საკომისიო: GEL 0.5; ბარათი: VISA, 418699002***4626; კოდი: 441223; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A5-; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>32.5</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>32.5</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26980012517</DocKey>
+      <DocRecDate>25.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7118916282</DocNo>
+      <DocValueDate>25.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94819949300</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>25.04.2025</EntryPDate>
+      <EntryDocNo>7118916282</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>32.5</EntryCrAmt>
+      <OutBalance>1,163.64</OutBalance>
+      <EntryCrAmtBase>32.5</EntryCrAmtBase>
+      <EntryAmtBase>32.5</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 25/04/2025 14:27:58; თანხა:GEL 33; საკომისიო: GEL 0.5; ბარათი: VISA, 418699002***4626; კოდი: 441223; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A5-; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 25/04/2025 16:37:22; თანხა:GEL 108.5; საკომისიო: GEL 3.8; ბარათი: AMEX, 341176767***1003; კოდი: 878619; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A5-; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 25/04/2025 16:37:22; თანხა:GEL 108.5; საკომისიო: GEL 3.8; ბარათი: AMEX, 341176767***1003; კოდი: 878619; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A5-; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>104.7</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>104.7</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26981956490</DocKey>
+      <DocRecDate>25.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7119977043</DocNo>
+      <DocValueDate>25.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94824958094</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>25.04.2025</EntryPDate>
+      <EntryDocNo>7119977043</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>104.7</EntryCrAmt>
+      <OutBalance>1,268.34</OutBalance>
+      <EntryCrAmtBase>104.7</EntryCrAmtBase>
+      <EntryAmtBase>104.7</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 25/04/2025 16:37:22; თანხა:GEL 108.5; საკომისიო: GEL 3.8; ბარათი: AMEX, 341176767***1003; კოდი: 878619; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A5-; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>1268.34</DayAmt>
+      <DayAmtBase>1268.34</DayAmtBase>
+      <VsumCr>137.2</VsumCr>
+      <DayEntryCount>2</DayEntryCount>
+      <DayDate>25.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="26.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 26/04/2025 18:37:31; თანხა:GEL 64; საკომისიო: GEL 0.96; ბარათი: AMEXD, 37466902***2717; კოდი: 136289; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A6A; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 26/04/2025 18:37:31; თანხა:GEL 64; საკომისიო: GEL 0.96; ბარათი: AMEXD, 37466902***2717; კოდი: 136289; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A6A; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>63.04</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>63.04</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>26999540544</DocKey>
+      <DocRecDate>26.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7128678099</DocNo>
+      <DocValueDate>26.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94885002556</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>26.04.2025</EntryPDate>
+      <EntryDocNo>7128678099</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>63.04</EntryCrAmt>
+      <OutBalance>1,331.38</OutBalance>
+      <EntryCrAmtBase>63.04</EntryCrAmtBase>
+      <EntryAmtBase>63.04</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 26/04/2025 18:37:31; თანხა:GEL 64; საკომისიო: GEL 0.96; ბარათი: AMEXD, 37466902***2717; კოდი: 136289; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A6A; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>1331.38</DayAmt>
+      <DayAmtBase>1331.38</DayAmtBase>
+      <VsumCr>63.04</VsumCr>
+      <DayEntryCount>1</DayEntryCount>
+      <DayDate>26.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="27.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 27/04/2025 00:07:32; თანხა:GEL 121; საკომისიო: GEL 2.42; ბარათი: VISA, 492185066***4688; კოდი: 369229; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A6A; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 27/04/2025 00:07:32; თანხა:GEL 121; საკომისიო: GEL 2.42; ბარათი: VISA, 492185066***4688; კოდი: 369229; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A6A; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>118.58</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>118.58</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>27002637673</DocKey>
+      <DocRecDate>27.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7130475131</DocNo>
+      <DocValueDate>27.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94892894396</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>27.04.2025</EntryPDate>
+      <EntryDocNo>7130475131</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>118.58</EntryCrAmt>
+      <OutBalance>1,641.54</OutBalance>
+      <EntryCrAmtBase>118.58</EntryCrAmtBase>
+      <EntryAmtBase>118.58</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 27/04/2025 00:07:32; თანხა:GEL 121; საკომისიო: GEL 2.42; ბარათი: VISA, 492185066***4688; კოდი: 369229; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A6A; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 27/04/2025 00:42:30; თანხა:GEL 69.5; საკომისიო: GEL 1.04; ბარათი: AMEXD, 374669021***2654; კოდი: 947341; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A6A; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 27/04/2025 00:42:30; თანხა:GEL 69.5; საკომისიო: GEL 1.04; ბარათი: AMEXD, 374669021***2654; კოდი: 947341; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A6A; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>68.46</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>68.46</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>27002798505</DocKey>
+      <DocRecDate>27.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7130521545</DocNo>
+      <DocValueDate>27.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94893206737</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>27.04.2025</EntryPDate>
+      <EntryDocNo>7130521545</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>68.46</EntryCrAmt>
+      <OutBalance>1,453.03</OutBalance>
+      <EntryCrAmtBase>68.46</EntryCrAmtBase>
+      <EntryAmtBase>68.46</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 27/04/2025 00:42:30; თანხა:GEL 69.5; საკომისიო: GEL 1.04; ბარათი: AMEXD, 374669021***2654; კოდი: 947341; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A6A; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 27/04/2025 18:22:11; თანხა:GEL 71; საკომისიო: GEL 1.07; ბარათი: AMEXD, 374669037***2632; კოდი: 597676; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A7B; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 27/04/2025 18:22:11; თანხა:GEL 71; საკომისიო: GEL 1.07; ბარათი: AMEXD, 374669037***2632; კოდი: 597676; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A7B; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>69.93</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>69.93</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>27012768577</DocKey>
+      <DocRecDate>27.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7135512628</DocNo>
+      <DocValueDate>27.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94930766085</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>27.04.2025</EntryPDate>
+      <EntryDocNo>7135512628</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>69.93</EntryCrAmt>
+      <OutBalance>1,522.96</OutBalance>
+      <EntryCrAmtBase>69.93</EntryCrAmtBase>
+      <EntryAmtBase>69.93</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 27/04/2025 18:22:11; თანხა:GEL 71; საკომისიო: GEL 1.07; ბარათი: AMEXD, 374669037***2632; კოდი: 597676; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A7B; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 27/04/2025 21:51:10; თანხა:GEL 34; საკომისიო: GEL 0.51; ბარათი: AMEXD, 374669088***2813; კოდი: 381255; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A7B; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 27/04/2025 21:51:10; თანხა:GEL 34; საკომისიო: GEL 0.51; ბარათი: AMEXD, 374669088***2813; კოდი: 381255; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A7B; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>33.49</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>33.49</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>27014866896</DocKey>
+      <DocRecDate>27.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7136788511</DocNo>
+      <DocValueDate>27.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94936187918</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>27.04.2025</EntryPDate>
+      <EntryDocNo>7136788511</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>33.49</EntryCrAmt>
+      <OutBalance>1,384.57</OutBalance>
+      <EntryCrAmtBase>33.49</EntryCrAmtBase>
+      <EntryAmtBase>33.49</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 27/04/2025 21:51:10; თანხა:GEL 34; საკომისიო: GEL 0.51; ბარათი: AMEXD, 374669088***2813; კოდი: 381255; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A7B; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 27/04/2025 23:44:13; თანხა:GEL 20; საკომისიო: GEL 0.3; ბარათი: AMEXD, 37466902***2246; კოდი: 421198; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A7B; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 27/04/2025 23:44:13; თანხა:GEL 20; საკომისიო: GEL 0.3; ბარათი: AMEXD, 37466902***2246; კოდი: 421198; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A7B; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>19.7</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>19.7</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>27015533605</DocKey>
+      <DocRecDate>27.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7137083771</DocNo>
+      <DocValueDate>27.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94937798179</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>27.04.2025</EntryPDate>
+      <EntryDocNo>7137083771</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>19.7</EntryCrAmt>
+      <OutBalance>1,351.08</OutBalance>
+      <EntryCrAmtBase>19.7</EntryCrAmtBase>
+      <EntryAmtBase>19.7</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 27/04/2025 23:44:13; თანხა:GEL 20; საკომისიო: GEL 0.3; ბარათი: AMEXD, 37466902***2246; კოდი: 421198; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A7B; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>1641.54</DayAmt>
+      <DayAmtBase>1641.54</DayAmtBase>
+      <VsumCr>310.16</VsumCr>
+      <DayEntryCount>5</DayEntryCount>
+      <DayDate>27.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="28.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 28/04/2025 12:37:44; თანხა:GEL 32; საკომისიო: GEL 1.12; ბარათი: AMEX, 37989721***4127; კოდი: 622465; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A8C; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 28/04/2025 12:37:44; თანხა:GEL 32; საკომისიო: GEL 1.12; ბარათი: AMEX, 37989721***4127; კოდი: 622465; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A8C; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>30.88</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>30.88</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>27022581527</DocKey>
+      <DocRecDate>28.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7139687096</DocNo>
+      <DocValueDate>28.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>94961037319</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>28.04.2025</EntryPDate>
+      <EntryDocNo>7139687096</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>30.88</EntryCrAmt>
+      <OutBalance>1,672.42</OutBalance>
+      <EntryCrAmtBase>30.88</EntryCrAmtBase>
+      <EntryAmtBase>30.88</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 28/04/2025 12:37:44; თანხა:GEL 32; საკომისიო: GEL 1.12; ბარათი: AMEX, 37989721***4127; კოდი: 622465; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2A8C; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>1672.42</DayAmt>
+      <DayAmtBase>1672.42</DayAmtBase>
+      <VsumCr>30.88</VsumCr>
+      <DayEntryCount>1</DayEntryCount>
+      <DayDate>28.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+  <DETAILS DATE="30.04.2025">
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 30/04/2025 15:57:53; თანხა:GEL 79; საკომისიო: GEL 2.77; ბარათი: AMEX, 379897114***4513; კოდი: 117752; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 30/04/2025 15:57:53; თანხა:GEL 79; საკომისიო: GEL 2.77; ბარათი: AMEX, 379897114***4513; კოდი: 117752; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>76.23</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>76.23</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>27058012479</DocKey>
+      <DocRecDate>30.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7155440562</DocNo>
+      <DocValueDate>30.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>95074081204</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>30.04.2025</EntryPDate>
+      <EntryDocNo>7155440562</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>76.23</EntryCrAmt>
+      <OutBalance>1,646.44</OutBalance>
+      <EntryCrAmtBase>76.23</EntryCrAmtBase>
+      <EntryAmtBase>76.23</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 30/04/2025 15:57:53; თანხა:GEL 79; საკომისიო: GEL 2.77; ბარათი: AMEX, 379897114***4513; კოდი: 117752; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>True</CanCopyDocument>
+      <CanViewDocument>True</CanViewDocument>
+      <CanPrintDocument>True</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>პროდუქციის საფასური</DocNomination>
+      <DocInformation>პროდუქციის საფასური</DocInformation>
+      <DocSrcAmt>189</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>189</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>27058692555</DocKey>
+      <DocRecDate>30.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>CENT14</DocDepartment>
+      <DocProdGroup>PMD</DocProdGroup>
+      <DocNo>0239</DocNo>
+      <DocValueDate>30.04.2025</DocValueDate>
+      <DocSenderName>შპს  მს ჯგუფი</DocSenderName>
+      <DocSenderInn>405167947</DocSenderInn>
+      <DocSenderAcctNo>GE30BG0000000664216500GEL</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocActualDate>30.04.2025</DocActualDate>
+      <DocCorAcct>GE35BG0000000601741329GEL</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>95075799678</EntriesId>
+      <DocComment>შპს გრავითი ბევერიჯ GE35BG0000000601741329GEL სს "საქართველოს ბანკი" BAGAGE22</DocComment>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>30.04.2025</EntryPDate>
+      <EntryDocNo>0239</EntryDocNo>
+      <EntryLAcct>GE35BG0000000601741329GEL</EntryLAcct>
+      <EntryLAcctOld>601741329</EntryLAcctOld>
+      <EntryDbAmt>189</EntryDbAmt>
+      <EntryDbAmtBase>189</EntryDbAmtBase>
+      <OutBalance>1,483.42</OutBalance>
+      <EntryAmtBase>189</EntryAmtBase>
+      <EntryComment>პროდუქციის საფასური</EntryComment>
+      <EntryDepartment>4B366</EntryDepartment>
+      <EntryAcctPoint>4B366</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს გრავითი ბევერიჯ</DocBenefName>
+      <DocBenefInn>404734329</DocBenefInn>
+      <DocBenefAcctNo>GE35BG0000000601741329GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>შპს  მს ჯგუფი</DocPayerName>
+      <DocPayerInn>405167947</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 30/04/2025 16:49:23; თანხა:GEL 109; საკომისიო: GEL 1.64; ბარათი: AMEXD, 37466902***5339; კოდი: 294612; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 30/04/2025 16:49:23; თანხა:GEL 109; საკომისიო: GEL 1.64; ბარათი: AMEXD, 37466902***5339; კოდი: 294612; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>107.36</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>107.36</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>27058829264</DocKey>
+      <DocRecDate>30.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7155866482</DocNo>
+      <DocValueDate>30.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>95076173753</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>30.04.2025</EntryPDate>
+      <EntryDocNo>7155866482</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>107.36</EntryCrAmt>
+      <OutBalance>1,838.51</OutBalance>
+      <EntryCrAmtBase>107.36</EntryCrAmtBase>
+      <EntryAmtBase>107.36</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 30/04/2025 16:49:23; თანხა:GEL 109; საკომისიო: GEL 1.64; ბარათი: AMEXD, 37466902***5339; კოდი: 294612; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 30/04/2025 16:59:11; თანხა:GEL 9; საკომისიო: GEL 0.14; ბარათი: MC, 531125360***6031; კოდი: 546312; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 30/04/2025 16:59:11; თანხა:GEL 9; საკომისიო: GEL 0.14; ბარათი: MC, 531125360***6031; კოდი: 546312; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>8.86</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>8.86</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>27059027549</DocKey>
+      <DocRecDate>30.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7155951863</DocNo>
+      <DocValueDate>30.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>95076558386</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>30.04.2025</EntryPDate>
+      <EntryDocNo>7155951863</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>8.86</EntryCrAmt>
+      <OutBalance>1,492.28</OutBalance>
+      <EntryCrAmtBase>8.86</EntryCrAmtBase>
+      <EntryAmtBase>8.86</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 30/04/2025 16:59:11; თანხა:GEL 9; საკომისიო: GEL 0.14; ბარათი: MC, 531125360***6031; კოდი: 546312; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 30/04/2025 17:50:09; თანხა:GEL 181; საკომისიო: GEL 2.72; ბარათი: VISA, 411634008***4744; კოდი: 969268; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 30/04/2025 17:50:09; თანხა:GEL 181; საკომისიო: GEL 2.72; ბარათი: VISA, 411634008***4744; კოდი: 969268; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>178.28</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>178.28</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>27060371527</DocKey>
+      <DocRecDate>30.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7156398057</DocNo>
+      <DocValueDate>30.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>95083325559</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>30.04.2025</EntryPDate>
+      <EntryDocNo>7156398057</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>178.28</EntryCrAmt>
+      <OutBalance>2,016.79</OutBalance>
+      <EntryCrAmtBase>178.28</EntryCrAmtBase>
+      <EntryAmtBase>178.28</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 30/04/2025 17:50:09; თანხა:GEL 181; საკომისიო: GEL 2.72; ბარათი: VISA, 411634008***4744; კოდი: 969268; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 30/04/2025 19:49:57; თანხა:GEL 37; საკომისიო: GEL 0.56; ბარათი: MC, 548888025***3746; კოდი: 324732; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 30/04/2025 19:49:57; თანხა:GEL 37; საკომისიო: GEL 0.56; ბარათი: MC, 548888025***3746; კოდი: 324732; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>36.44</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>36.44</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>27062210372</DocKey>
+      <DocRecDate>30.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7157474978</DocNo>
+      <DocValueDate>30.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>95088033123</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>30.04.2025</EntryPDate>
+      <EntryDocNo>7157474978</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>36.44</EntryCrAmt>
+      <OutBalance>1,528.72</OutBalance>
+      <EntryCrAmtBase>36.44</EntryCrAmtBase>
+      <EntryAmtBase>36.44</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 30/04/2025 19:49:57; თანხა:GEL 37; საკომისიო: GEL 0.56; ბარათი: MC, 548888025***3746; კოდი: 324732; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 30/04/2025 20:53:49; თანხა:GEL 86; საკომისიო: GEL 1.29; ბარათი: AMEXD, 374669023***9513; კოდი: 483298; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 30/04/2025 20:53:49; თანხა:GEL 86; საკომისიო: GEL 1.29; ბარათი: AMEXD, 374669023***9513; კოდი: 483298; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>84.71</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>84.71</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>27063078124</DocKey>
+      <DocRecDate>30.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7157984354</DocNo>
+      <DocValueDate>30.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>95090271337</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>30.04.2025</EntryPDate>
+      <EntryDocNo>7157984354</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>84.71</EntryCrAmt>
+      <OutBalance>1,731.15</OutBalance>
+      <EntryCrAmtBase>84.71</EntryCrAmtBase>
+      <EntryAmtBase>84.71</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 30/04/2025 20:53:49; თანხა:GEL 86; საკომისიო: GEL 1.29; ბარათი: AMEXD, 374669023***9513; კოდი: 483298; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DETAIL>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <DocNomination>გადახდა - თარიღი: 30/04/2025 23:26:54; თანხა:GEL 43; საკომისიო: GEL 1.51; ბარათი: AMEX, 379897119***1891; კოდი: 234737; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</DocNomination>
+      <DocInformation>გადახდა - თარიღი: 30/04/2025 23:26:54; თანხა:GEL 43; საკომისიო: GEL 1.51; ბარათი: AMEX, 379897119***1891; კოდი: 234737; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</DocInformation>
+      <DocSrcAmt>41.49</DocSrcAmt>
+      <DocSrcCcy>GEL</DocSrcCcy>
+      <DocDstAmt>41.49</DocDstAmt>
+      <DocDstCcy>GEL</DocDstCcy>
+      <DocKey>27064558065</DocKey>
+      <DocRecDate>30.04.2025</DocRecDate>
+      <DocBranch>502</DocBranch>
+      <DocDepartment>OSCS</DocDepartment>
+      <DocProdGroup>TRN</DocProdGroup>
+      <DocNo>7158690739</DocNo>
+      <DocValueDate>30.04.2025</DocValueDate>
+      <DocSenderName>ცენტრალური</DocSenderName>
+      <DocSenderInn>204378869</DocSenderInn>
+      <DocSenderAcctNo>GE30BG4501981900680000</DocSenderAcctNo>
+      <DocSenderBic>BAGAGE22</DocSenderBic>
+      <DocCorAcct>GE30BG4501981900680000</DocCorAcct>
+      <DocCorBic>BAGAGE22</DocCorBic>
+      <DocCorBankName>სს "საქართველოს ბანკი"</DocCorBankName>
+      <EntriesId>95093890187</EntriesId>
+      <CcyRate>1</CcyRate>
+      <EntryPDate>30.04.2025</EntryPDate>
+      <EntryDocNo>7158690739</EntryDocNo>
+      <EntryLAcct>GE30BG4501981900680000</EntryLAcct>
+      <EntryCrAmt>41.49</EntryCrAmt>
+      <OutBalance>1,570.21</OutBalance>
+      <EntryCrAmtBase>41.49</EntryCrAmtBase>
+      <EntryAmtBase>41.49</EntryAmtBase>
+      <EntryComment>გადახდა - თარიღი: 30/04/2025 23:26:54; თანხა:GEL 43; საკომისიო: GEL 1.51; ბარათი: AMEX, 379897119***1891; კოდი: 234737; ტერმინალის ID: POS30GW2; დეპოზ:POS30GW2B0E; RadioCafe;  ID:; მისამართი: ათონელის 29</EntryComment>
+      <EntryDepartment>OSCS</EntryDepartment>
+      <EntryAcctPoint>OSCS</EntryAcctPoint>
+      <DocSenderBicName>სს "საქართველოს ბანკი"</DocSenderBicName>
+      <DocBenefName>შპს  მს ჯგუფი</DocBenefName>
+      <DocBenefInn>405167947</DocBenefInn>
+      <DocBenefAcctNo>GE30BG0000000664216500GEL</DocBenefAcctNo>
+      <DocBenefBic>BAGAGE22</DocBenefBic>
+      <DocBenefBicName>სს "საქართველოს ბანკი"</DocBenefBicName>
+      <DocPayerName>ცენტრალური</DocPayerName>
+      <DocPayerInn>204378869</DocPayerInn>
+    </DETAIL>
+    <DET_HEAD>
+      <CanCopyDocument>False</CanCopyDocument>
+      <CanViewDocument>False</CanViewDocument>
+      <CanPrintDocument>False</CanPrintDocument>
+      <IsReval>False</IsReval>
+      <CcyRate>1</CcyRate>
+      <DayAmt>2016.79</DayAmt>
+      <DayAmtBase>2016.79</DayAmtBase>
+      <VsumCr>533.37</VsumCr>
+      <DaySumDb>189</DaySumDb>
+      <DayEntryCount>8</DayEntryCount>
+      <DayDate>30.04.2025</DayDate>
+    </DET_HEAD>
+  </DETAILS>
+</entries>

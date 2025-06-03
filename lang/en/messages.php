@@ -3,7 +3,7 @@
 return [
     'bank_statement_convert' => 'Bank Statement Convert',
     'upload_file' => 'Upload a File',
-    'inn' => 'INN',
+    'inn' => 'TAX ID',
     'upload_and_convert' => 'Upload and Convert',
     'selected_file' => 'Selected File',
     'file_upload_failed' => 'File upload failed!',
@@ -12,4 +12,5 @@ return [
     'english' => 'English',
     'russian' => 'Russian',
     'georgian' => 'Georgian',
+    'logout' => 'logout'
 ];

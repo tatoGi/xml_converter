@@ -12,4 +12,5 @@ return [
     'english' => 'Английский',
     'russian' => 'Русский',
     'georgian' => 'Грузинский',
+    'logout' => 'Выход',
 ];
