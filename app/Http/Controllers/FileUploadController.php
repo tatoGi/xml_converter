@@ -11,8 +11,8 @@ class FileUploadController extends Controller
 
         // Validate the incoming request
         $request->validate([
-            'file_name' => 'required|string',
-            'INN' => 'required|file|mimes:xml', // Accept only XML files
+            'file_name' => 'required|file|mimes:xml',
+            'INN' => 'required', // Accept only XML files
         ]);
 
         // Define the uploads directory
@@ -30,7 +30,7 @@ class FileUploadController extends Controller
         }
 
         // Process the uploaded XML file
-        $xmlFile = $request->file('INN');
+        $xmlFile = $request->file('file_name');
         $fileName = $xmlFile->getClientOriginalName();
         $xmlFile->move($uploads_dir, $fileName);
 

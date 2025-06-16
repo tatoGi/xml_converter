@@ -28,11 +28,11 @@
                     @csrf
                     <div class="mb-3">
                         <label for="inn">{{ __('messages.inn') }}</label>
-                        <input class="form-control" name="file_name" type="text" id="inn" value="{{ Auth::user()->inn }}" readonly>
+                        <input class="form-control" name="INN" type="text" id="inn" value="{{ Auth::user()->inn }}" readonly>
                       </div>
 
                     <div class="mb-3">
-                      <input class="form-control" name="INN" type="file" id="fileUpload" required accept=".txt,.xml">
+                      <input class="form-control" name="file_name" type="file" id="fileUpload" required accept=".txt,.xml">
                       <div class="mt-2 text-success" id="fileName"></div>
                     </div>
                     <button type="submit" class="btn btn-primary">{{ __('messages.upload_and_convert') }}</button>

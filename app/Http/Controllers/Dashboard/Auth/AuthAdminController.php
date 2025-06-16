@@ -17,16 +17,8 @@ class AuthAdminController extends Controller
     // Handle login form submission
     public function store(Request $request)
     {
-        // Add debugging
-        \Log::info('Login attempt details', [
-            'has_csrf_token' => $request->has('_token'),
-            'csrf_token' => $request->input('_token'),
-            'debug_token' => $request->input('debug_token'),
-            'session_token' => session()->token(),
-            'headers' => $request->headers->all(),
-            'all_input' => $request->all()
-        ]);
 
+        // Add debugging
         $credentials = $request->validate([
             'email' => 'required',
             'password' => 'required'
