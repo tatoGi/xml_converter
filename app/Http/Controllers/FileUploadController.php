@@ -8,7 +8,7 @@ class FileUploadController extends Controller
 {
     public function upload(Request $request)
     {
-
+       
         // Validate the incoming request
         $request->validate([
             'file_name' => 'required|file|mimes:xml',
@@ -81,7 +81,7 @@ class FileUploadController extends Controller
                 $Date = str_replace('/', '.', (string)$detail->DocValueDate);
                 $PaidIn = (string)$detail->EntryCrAmt;
                 $PaidOut = (string)$detail->EntryAmtBase;
-                $PartnerAccountNumber = (string)$detail->DocBenefAcctNo;
+                $PartnerAccountNumber = (string)$detail->DocBenefInn;
                 $PartnerName = (string)$detail->DocBenefName;
                 $PartnerBankName = (string)$detail->DocBenefBicName;
                 $TransactionType = (string)$detail->DocNomination;
@@ -101,7 +101,7 @@ class FileUploadController extends Controller
                     $vipiska .= "ПлательщикСчет=\n";
                     $vipiska .= "ДатаСписано=$Date\n";
                     $vipiska .= "Плательщик=$AccountNameEnglish\n";
-                    $vipiska .= "ПлательщикИНН=$request[INN]\n";
+                    $vipiska .= "ПлательщикИНН=$PartnerAccountNumber\n";
                     $vipiska .= "ПлательщикКПП=\n";
                     $vipiska .= "ПлательщикРасчСчет=$AccountNo\n";
                     $vipiska .= "ПлательщикБанк1=\n";
@@ -110,7 +110,7 @@ class FileUploadController extends Controller
                     $vipiska .= "ПолучательСчет=$PartnerAccountNumber\n";
                     $vipiska .= "ДатаПоступило=\n";
                     $vipiska .= "Получатель=$PartnerName\n";
-                    $vipiska .= "ПолучательИНН=" . str_replace("GE", "", $PartnerAccountNumber) . "\n";
+                    $vipiska .= "ПолучательИНН=" . $PartnerAccountNumber . "\n";
                     $vipiska .= "ПолучательКПП=\n";
                     $vipiska .= "ПолучательРасчСчет=$PartnerAccountNumber\n";
                     $vipiska .= "ПолучательБанк1=$PartnerBankName\n";
@@ -122,7 +122,7 @@ class FileUploadController extends Controller
                     $vipiska .= "ПлательщикСчет=$PartnerAccountNumber\n";
                     $vipiska .= "ДатаСписано=\n";
                     $vipiska .= "Плательщик=$PartnerName\n";
-                    $vipiska .= "ПлательщикИНН=" . str_replace("GE", "", $PartnerAccountNumber) . "\n";
+                    $vipiska .= "ПлательщикИНН=" . $PartnerAccountNumber . "\n";
                     $vipiska .= "ПлательщикКПП=\n";
                     $vipiska .= "ПлательщикРасчСчет=$PartnerAccountNumber\n";
                     $vipiska .= "ПлательщикБанк1=$PartnerBankName\n";
